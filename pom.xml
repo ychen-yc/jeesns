@@ -11,6 +11,7 @@
     <name>jeesns</name>
 
     <modules>
+        <module>jeesns-core</module>
         <module>jeesns-service</module>
         <module>jeesns-web</module>
     </modules>
